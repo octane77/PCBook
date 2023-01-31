@@ -1,0 +1,62 @@
+{
+ "id": "ecd36e53-7aeb-4485-ad84-a7b3398e0a0a",
+ "brand": "Dell",
+ "name": "Latitude",
+ "cpu": {
+  "pcbrand": "Intel",
+  "pcname": "XEON E-2286M",
+  "number_cores": 7,
+  "number_threads": 12,
+  "min_ghz": 3.3098711805131016,
+  "max_ghz": 4.094589546216333
+ },
+ "ram": {
+  "value": "64",
+  "unit": 5
+ },
+ "gpus": [
+  {
+   "brand": "AMD",
+   "name": "RX 590",
+   "min_ghz": 1.1639179804896902,
+   "max_ghz": 1.9400472230429684,
+   "memory": {
+    "value": "6",
+    "unit": 5
+   }
+  }
+ ],
+ "storage": [
+  {
+   "driver": 2,
+   "memory": {
+    "value": "740",
+    "unit": 5
+   }
+  },
+  {
+   "driver": 1,
+   "memory": {
+    "value": "2",
+    "unit": 5
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 16.134727,
+  "resolution": {
+   "width": 4168,
+   "height": 2345
+  },
+  "panel": 1,
+  "multitouch": true
+ },
+ "keyboard": {
+  "layout": 1,
+  "backlit": true
+ },
+ "weight_kg": 1.2655342648995527,
+ "price_usd": 2403.5147297587587,
+ "release_year": 2015,
+ "updated_at": "2022-12-05T10:24:39.810336300Z"
+}
